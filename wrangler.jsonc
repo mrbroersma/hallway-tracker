@@ -11,7 +11,7 @@
     {
       "binding": "DB",
       "database_name": "hallway-tracker",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "806d59d9-c549-4c25-8ca5-728061508f63",
       "migrations_dir": "migrations"
     }
   ]
