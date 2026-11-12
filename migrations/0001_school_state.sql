@@ -1,0 +1,5 @@
+CREATE TABLE school_state (
+  id INTEGER PRIMARY KEY,
+  body TEXT NOT NULL,
+  version INTEGER NOT NULL DEFAULT 0
+);
